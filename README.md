@@ -45,8 +45,4 @@ You can find and get touch with me on these accounts!
 ⭐️ From [camilomvm](https://github.com/camilomvm)
 
 
----
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/camilomvm/count.svg">
-</p>
+
