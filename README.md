@@ -32,7 +32,7 @@ I am Camilo Moreno Vallejo from Medellín, Colombia, passionate about technology
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/camilomvm) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/camilomvm114/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/camilo_mv11) |  
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/camilomvm) | [<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="instagram logo" width="24">](https://www.linkedin.com/in/camilo-moreno-7a793b1a6) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/camilo_mv11) |  
 |---|---|---|
 
 ---
