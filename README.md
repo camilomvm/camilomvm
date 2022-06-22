@@ -3,9 +3,6 @@
 
 I am Camilo Moreno Vallejo from Medellín, Colombia, passionate about technology and I like to learn new things
 
-- I like pizza 🍕
-- Music lover 🎧
-- Autodidact 👨‍💻
 
 ### Programming Languages 🌐
 
